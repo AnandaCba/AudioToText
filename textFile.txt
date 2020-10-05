@@ -1,0 +1,1 @@
+teste da aplicação em Python que converte áudio para texto Python é uma linguagem de programação de alto nível interpretada de script imperativa orientado objetos funcional de tipagem dinâmica e forte foi lançada por Guido van rossum em 1991
